@@ -85,10 +85,10 @@ DATABASES = {
         'NAME': 'techtrends_db_2',
         'USER': 'techtrends_db_2_user',
         'PASSWORD': 'gol9Ymf39LMMfqzMNrGLMe3nZYyxDO2D',
-        'HOST': 'dpg-csrig9tumphs738i38lg-a.singapore-postgres.render.com',
+        'HOST': 'dpg-cth7fhhu0jms7380pg8g-a.singapore-postgres.render.com',
         'PORT': '5432',
         'OPTIONS': {
-            'sslmode': 'require',  
+            'sslmode': 'require', 
         },
     }
 }
