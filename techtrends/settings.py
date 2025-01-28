@@ -82,16 +82,17 @@ WSGI_APPLICATION = 'techtrends.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'techtrends_db_2',
-        'USER': 'techtrends_db_2_user',
-        'PASSWORD': 'gol9Ymf39LMMfqzMNrGLMe3nZYyxDO2D',
-        'HOST': 'dpg-cth7fhhu0jms7380pg8g-a.singapore-postgres.render.com',
+        'NAME': 'techtrends_db_3',
+        'USER': 'techtrends_db_3',
+        'PASSWORD': 'UXtfMWBwBuYthzuqmlHQTWNHOHN2cubB',
+        'HOST': 'dpg-cucff03v2p9s73d728a0-a.singapore-postgres.render.com',
         'PORT': '5432',
         'OPTIONS': {
             'sslmode': 'require', 
         },
     }
 }
+
 
 
 
